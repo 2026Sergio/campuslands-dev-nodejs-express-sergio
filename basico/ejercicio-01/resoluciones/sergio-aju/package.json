@@ -1,0 +1,19 @@
+{
+  "name": "rpg-node-runtime",
+  "version": "1.0.0",
+  "description": "Ejercicio basico de Node runtime y consola con tematica RPG",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "node --watch src/app.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "rpg"
+  ],
+  "author": "Sergio Aju",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
